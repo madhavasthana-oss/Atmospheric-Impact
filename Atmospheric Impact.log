@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 17:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 19:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Asus/Desktop/LaTeX/AtmosphericImpact/Atmospheric Impact.tex"
-(c:/Users/Asus/Desktop/LaTeX/AtmosphericImpact/Atmospheric Impact.tex
+**"c:/Users/Asus/Desktop/LaTeX/Atmoshpheric-Impact/Atmospheric Impact.tex"
+(c:/Users/Asus/Desktop/LaTeX/Atmoshpheric-Impact/Atmospheric Impact.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\Asus\Desktop\MiKTeX\tex/latex/base\article.cls
@@ -692,29 +692,35 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 [2] (core_principle.tex)
 
-[3] (presence.tex
+[3]
+Overfull \hbox (0.95576pt too wide) in paragraph at lines 77--81
+[][][]\TU/EBGaramond(0)/b/n/12 Non-Interference[][] \TU/EBGaramond(0)/m/n/12 — 
+Express the thought at whatever level of closure it actually reached.
+ []
 
-[4]
+
+
+[4] (presence.tex
 
 [5]
 
-[6]) (expression_model.tex
+[6]
 
-[7]
+[7]) (expression_model.tex
 
 [8]
 
-[9]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
+[9]
 
-[10] (GenerativeIncompletion/graze.tex) (GenerativeIncompletion/gradual.tex
+[10]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
 
-[11]) (GenerativeIncompletion/fracture.tex)
+[11] (GenerativeIncompletion/graze.tex) (GenerativeIncompletion/gradual.tex
+
+[12]) (GenerativeIncompletion/fracture.tex)
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 66.
@@ -725,40 +731,42 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[13] (GenerativeIncompletion/fragment_vs_blur.tex)
+[13]
 
-[14]
+[14] (GenerativeIncompletion/fragment_vs_blur.tex)
 
 [15]
 
-[16])
+[16]
 
-[17] (CoAuthorship/main.tex (CoAuthorship/intro.tex)
+[17])
+
+[18] (CoAuthorship/main.tex (CoAuthorship/intro.tex)
 (CoAuthorship/completion_bond.tex
 
-[18])
+[19])
 
-[19]
+[20]
 
-[20]) (stages_of_engagement.tex
+[21]) (stages_of_engagement.tex
 
-[21])
+[22])
 
-[22] (pressure_states.tex
+[23] (pressure_states.tex
 
-[23])
+[24])
 
-[24] (calibration_protocol.tex
+[25] (calibration_loop.tex
 
-[25]) (failure_modes.tex
+[26]) (failure_modes.tex
 
-[26]
+[27]
 
-[27])
+[28])
 
-[28] (CaseStudies/main.tex
+[29] (CaseStudies/main.tex
 
-[29]
+[30]
 Overfull \hbox (0.36377pt too wide) in paragraph at lines 7--10
 \TU/EBGaramond(0)/m/n/12 nition Fracture occurred, where the Completion Bond fo
 rmed, and where the framework failed
@@ -766,19 +774,17 @@ rmed, and where the framework failed
 
 
 
-[30] (CaseStudies/case_study_1.tex
+[31] (CaseStudies/case_study_1.tex
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
 
-[31]
+[32]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[32]
 
 [33]
 
@@ -792,11 +798,11 @@ Package microtype Info: Character `156' is missing
 
 [38]
 
-[39])
+[39]
 
-[40] (CaseStudies/case_study_2.tex
+[40])
 
-[41]
+[41] (CaseStudies/case_study_2.tex
 
 [42]
 
@@ -811,6 +817,8 @@ Package microtype Info: Character `156' is missing
 [47]
 
 [48]
+
+[49]
 Overfull \hbox (1.3707pt too wide) in paragraph at lines 319--319
 | \TU/EBGaramond(0)/b/n/12 “I can’t tell which parts of you are instinct and wh
 ich are practiced. you’re…curated.
@@ -818,15 +826,13 @@ ich are practiced. you’re…curated.
 
 
 
-[49]
-
 [50]
 
-[51])
+[51]
 
-[52] (CaseStudies/case_study_3.tex
+[52])
 
-[53]
+[53] (CaseStudies/case_study_3.tex
 
 [54]
 
@@ -835,6 +841,8 @@ ich are practiced. you’re…curated.
 [56]
 
 [57]
+
+[58]
 Overfull \hbox (1.49164pt too wide) in paragraph at lines 122--122
 | \TU/EBGaramond(0)/b/n/12 “you’d be more…in your own head? As opposed to just 
 here…with me…right now…I
@@ -848,27 +856,31 @@ id I see you…whatever you’re…fine
 
 
 
-[58]
-
 [59]
 
-[60]))
+[60]
 
-[61] (Atmospheric Impact.aux)
+[61]))
+
+[62] (Atmospheric Impact.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `"Atmospheric Impact".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 17086 strings out of 402989
- 334604 string characters out of 5451874
+ 17088 strings out of 402989
+ 334641 string characters out of 5451874
  845838 words of memory out of 5000000
- 45501 multiletter control sequences out of 15000+600000
+ 45503 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1375b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1377b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Atmospheric Impact.pdf (62 pages).
+Output written on Atmospheric Impact.pdf (63 pages).
