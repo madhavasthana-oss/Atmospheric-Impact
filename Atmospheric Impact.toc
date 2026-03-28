@@ -26,30 +26,30 @@
 \contentsline {subsection}{\numberline {5.6}Fragment vs.\ Blur}{15}{subsection.5.6}%
 \contentsline {subsection}{\numberline {5.7}The Stopping Point}{16}{subsection.5.7}%
 \contentsline {subsection}{\numberline {5.8}Selection and Interference}{16}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9}Physical Generative Incompletion}{17}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10}Visible Fluster and Physiological Vulnerability}{19}{subsection.5.10}%
-\contentsline {section}{\numberline {6}Co-Authorship}{20}{section.6}%
+\contentsline {subsection}{\numberline {5.9}Physical Generative Incompletion}{18}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Visible Fluster and Physiological Vulnerability}{20}{subsection.5.10}%
+\contentsline {section}{\numberline {6}Co-Authorship}{21}{section.6}%
 \contentsline {subsection}{\numberline {6.1}The Completion Bond}{21}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Let Her Move Toward You}{22}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}The Collapse Condition}{22}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.3}The Collapse Condition}{23}{subsection.6.3}%
 \contentsline {section}{\numberline {7}Reception and Calibration}{24}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Baseline First}{24}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Stages of Engagement}{24}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}Disengagement}{25}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Graze, Gradual, and Calibration}{25}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.4}Graze, Gradual, and Calibration}{26}{subsection.7.4}%
 \contentsline {subsection}{\numberline {7.5}Three Pressure States}{26}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}What Pressure Reveals}{26}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.6}What Pressure Reveals}{27}{subsection.7.6}%
 \contentsline {subsection}{\numberline {7.7}Respect Their Pacing}{27}{subsection.7.7}%
-\contentsline {subsection}{\numberline {7.8}Calibration}{27}{subsection.7.8}%
-\contentsline {subsection}{\numberline {7.9}The Calibration Loop}{27}{subsection.7.9}%
+\contentsline {subsection}{\numberline {7.8}Calibration}{28}{subsection.7.8}%
+\contentsline {subsection}{\numberline {7.9}The Calibration Loop}{28}{subsection.7.9}%
 \contentsline {section}{\numberline {8}Failure Modes}{29}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Vagueness Mistaken for Depth}{29}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Constructed Ambiguity by Softening}{29}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Avoidance Disguised as Openness}{29}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.3}Avoidance Disguised as Openness}{30}{subsection.8.3}%
 \contentsline {subsection}{\numberline {8.4}Overuse of Incompletion}{30}{subsection.8.4}%
 \contentsline {subsection}{\numberline {8.5}Incompletion Without Grounding}{30}{subsection.8.5}%
 \contentsline {subsection}{\numberline {8.6}The Cold Start Failure}{30}{subsection.8.6}%
 \contentsline {subsection}{\numberline {8.7}Turning Observations Into Rules}{30}{subsection.8.7}%
 \contentsline {section}{\numberline {9}Ethical Boundary}{31}{section.9}%
 \contentsline {subsection}{\numberline {9.1}The Source Prerequisite}{32}{subsection.9.1}%
-\contentsline {section}{\numberline {10}Case Studies}{32}{section.10}%
+\contentsline {section}{\numberline {10}Case Studies}{33}{section.10}%

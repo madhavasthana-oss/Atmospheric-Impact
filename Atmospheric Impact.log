@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 22:11
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  29 MAR 2026 02:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -744,39 +744,40 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [18]
 
-[19]) (CoAuthorship/main.tex (CoAuthorship/intro.tex
+[19])
 
-[20]) (CoAuthorship/completion_bond.tex
+[20] (CoAuthorship/main.tex (CoAuthorship/intro.tex)
+(CoAuthorship/completion_bond.tex
 
 [21])
 
-[22])
+[22]
 
-[23] (stages_of_engagement.tex
+[23]) (stages_of_engagement.tex
 
 [24])
 
-[25] (pressure_states.tex)
+[25] (pressure_states.tex
 
-[26] (calibration_loop.tex
+[26])
 
-[27]
+[27] (calibration_loop.tex
 
 [28]) (failure_modes.tex
 
-[29])
+[29]
 
-[30]
+[30])
 
 [31] (CaseStudies/main.tex
+
+[32]
 Overfull \hbox (0.36377pt too wide) in paragraph at lines 7--10
 \TU/EBGaramond(0)/m/n/12 nition Fracture occurred, where the Completion Bond fo
 rmed, and where the framework failed
  []
 
 
-
-[32]
 
 [33] (CaseStudies/case_study_1.tex
 Package microtype Info: Character `156' is missing
@@ -881,6 +882,6 @@ Here is how much of TeX's memory you used:
  45501 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1376b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1376b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on Atmospheric Impact.pdf (65 pages).
