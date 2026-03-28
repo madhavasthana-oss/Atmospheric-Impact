@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 19:15
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Asus/Desktop/LaTeX/Atmoshpheric-Impact/Atmospheric Impact.tex"
-(c:/Users/Asus/Desktop/LaTeX/Atmoshpheric-Impact/Atmospheric Impact.tex
+**"c:/Users/Asus/Desktop/LaTeX/Atmospheric-Impact/Atmospheric Impact.tex"
+(c:/Users/Asus/Desktop/LaTeX/Atmospheric-Impact/Atmospheric Impact.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\Asus\Desktop\MiKTeX\tex/latex/base\article.cls
@@ -867,20 +867,16 @@ id I see you…whatever you’re…fine
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `"Atmospheric Impact".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 17088 strings out of 402989
- 334641 string characters out of 5451874
+ 17086 strings out of 402989
+ 334575 string characters out of 5451874
  845838 words of memory out of 5000000
- 45503 multiletter control sequences out of 15000+600000
+ 45501 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1377b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1376b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on Atmospheric Impact.pdf (63 pages).
