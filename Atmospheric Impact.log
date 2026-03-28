@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 19:38
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -497,7 +497,14 @@ Italic.ttf]/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 \annowidth=\skip90
 \callwidth=\skip91
-) (Atmospheric Impact.aux)
+) (Atmospheric Impact.aux
+
+LaTeX Warning: Label `subsec:priority' multiply defined.
+
+
+LaTeX Warning: Label `subsec:priority@cref' multiply defined.
+
+)
 \openout1 = `"Atmospheric Impact.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -712,11 +719,14 @@ Express the thought at whatever level of closure it actually reached.
 
 [9]
 
-[10]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
+[10]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex
 
-[11] (GenerativeIncompletion/graze.tex) (GenerativeIncompletion/gradual.tex
+[11]) (GenerativeIncompletion/graze.tex
 
-[12]) (GenerativeIncompletion/fracture.tex)
+[12]) (GenerativeIncompletion/gradual.tex) (GenerativeIncompletion/fracture.tex
+)
+
+[13]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -731,42 +741,43 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[13]
+[14] (GenerativeIncompletion/fragment_vs_blur.tex
 
-[14] (GenerativeIncompletion/fragment_vs_blur.tex)
-
-[15]
+[15])
 
 [16]
 
-[17])
+[17]
 
-[18] (CoAuthorship/main.tex (CoAuthorship/intro.tex)
-(CoAuthorship/completion_bond.tex
+[18]
 
-[19])
+[19]) (CoAuthorship/main.tex (CoAuthorship/intro.tex
 
-[20]
+[20]) (CoAuthorship/completion_bond.tex
 
-[21]) (stages_of_engagement.tex
+[21])
 
-[22])
+[22]
 
-[23] (pressure_states.tex
+[23]) (stages_of_engagement.tex
 
 [24])
 
-[25] (calibration_loop.tex
+[25] (pressure_states.tex
 
-[26]) (failure_modes.tex
+[26])
 
-[27]
+[27] (calibration_loop.tex
 
-[28])
+[28]) (failure_modes.tex
 
-[29] (CaseStudies/main.tex
+[29]
 
-[30]
+[30])
+
+[31] (CaseStudies/main.tex
+
+[32]
 Overfull \hbox (0.36377pt too wide) in paragraph at lines 7--10
 \TU/EBGaramond(0)/m/n/12 nition Fracture occurred, where the Completion Bond fo
 rmed, and where the framework failed
@@ -774,21 +785,17 @@ rmed, and where the framework failed
 
 
 
-[31] (CaseStudies/case_study_1.tex
+[33] (CaseStudies/case_study_1.tex
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
 
-[32]
+[34]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[33]
-
-[34]
 
 [35]
 
@@ -800,13 +807,13 @@ Package microtype Info: Character `156' is missing
 
 [39]
 
-[40])
+[40]
 
-[41] (CaseStudies/case_study_2.tex
+[41]
 
-[42]
+[42])
 
-[43]
+[43] (CaseStudies/case_study_2.tex
 
 [44]
 
@@ -819,6 +826,10 @@ Package microtype Info: Character `156' is missing
 [48]
 
 [49]
+
+[50]
+
+[51]
 Overfull \hbox (1.3707pt too wide) in paragraph at lines 319--319
 | \TU/EBGaramond(0)/b/n/12 “I can’t tell which parts of you are instinct and wh
 ich are practiced. you’re…curated.
@@ -826,23 +837,23 @@ ich are practiced. you’re…curated.
 
 
 
-[50]
+[52]
 
-[51]
+[53]
 
-[52])
+[54])
 
-[53] (CaseStudies/case_study_3.tex
-
-[54]
-
-[55]
+[55] (CaseStudies/case_study_3.tex
 
 [56]
 
 [57]
 
 [58]
+
+[59]
+
+[60]
 Overfull \hbox (1.49164pt too wide) in paragraph at lines 122--122
 | \TU/EBGaramond(0)/b/n/12 “you’d be more…in your own head? As opposed to just 
 here…with me…right now…I
@@ -856,17 +867,21 @@ id I see you…whatever you’re…fine
 
 
 
-[59]
+[61]
 
-[60]
+[62]
 
-[61]))
+[63]))
 
-[62] (Atmospheric Impact.aux)
+[64] (Atmospheric Impact.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `"Atmospheric Impact".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
@@ -877,6 +892,6 @@ Here is how much of TeX's memory you used:
  45501 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1376b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1376b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Atmospheric Impact.pdf (63 pages).
+Output written on Atmospheric Impact.pdf (65 pages).
