@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 21:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  28 MAR 2026 22:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -497,14 +497,7 @@ Italic.ttf]/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 \annowidth=\skip90
 \callwidth=\skip91
-) (Atmospheric Impact.aux
-
-LaTeX Warning: Label `subsec:priority' multiply defined.
-
-
-LaTeX Warning: Label `subsec:priority@cref' multiply defined.
-
-)
+) (Atmospheric Impact.aux)
 \openout1 = `"Atmospheric Impact.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -878,10 +871,6 @@ id I see you…whatever you’re…fine
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `"Atmospheric Impact".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
