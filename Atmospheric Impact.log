@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  29 MAR 2026 02:45
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  1 APR 2026 15:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -684,46 +684,51 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 
-[1])
+[1]
+
+[2])
 \tf@toc=\write4
 \openout4 = `"Atmospheric Impact.toc"'.
 
 
 
-[2] (core_principle.tex)
+[3] (core_principle.tex)
 
-[3]
-Overfull \hbox (0.95576pt too wide) in paragraph at lines 77--81
+[4]
+Overfull \hbox (0.95576pt too wide) in paragraph at lines 80--84
 [][][]\TU/EBGaramond(0)/b/n/12 Non-Interference[][] \TU/EBGaramond(0)/m/n/12 — 
 Express the thought at whatever level of closure it actually reached.
  []
 
 
 
-[4] (presence.tex
-
 [5]
 
 [6]
 
-[7]) (expression_model.tex
+[7] (presence.tex
 
 [8]
 
 [9]
 
-[10]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
+[10]) (expression_model.tex
 
-[11] (GenerativeIncompletion/graze.tex
+[11]
 
-[12]) (GenerativeIncompletion/gradual.tex) (GenerativeIncompletion/fracture.tex
-)
+[12]
+
+[13]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
+
+[14] (GenerativeIncompletion/graze.tex) (GenerativeIncompletion/gradual.tex
+
+[15]) (GenerativeIncompletion/fracture.tex)
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
 
-[13]
+[16]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 66.
@@ -734,44 +739,43 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[14] (GenerativeIncompletion/fragment_vs_blur.tex)
-
-[15]
-
-[16]
-
-[17]
+[17] (GenerativeIncompletion/fragment_vs_blur.tex)
 
 [18]
 
-[19])
+[19]
 
-[20] (CoAuthorship/main.tex (CoAuthorship/intro.tex)
-(CoAuthorship/completion_bond.tex
+[20]
 
-[21])
+[21]
 
-[22]
+[22]) (CoAuthorship/main.tex (CoAuthorship/intro.tex
 
-[23]) (stages_of_engagement.tex
+[23]) (CoAuthorship/completion_bond.tex
 
 [24])
 
-[25] (pressure_states.tex
+[25]
 
-[26])
+[26]) (stages_of_engagement.tex
 
-[27] (calibration_loop.tex
+[27])
 
-[28]) (failure_modes.tex
+[28] (pressure_states.tex
 
-[29]
+[29])
 
-[30])
+[30] (calibration_loop.tex
 
-[31] (CaseStudies/main.tex
+[31]) (failure_modes.tex
 
 [32]
+
+[33])
+
+[34]
+
+[35] (CaseStudies/main.tex
 Overfull \hbox (0.36377pt too wide) in paragraph at lines 7--10
 \TU/EBGaramond(0)/m/n/12 nition Fracture occurred, where the Completion Bond fo
 rmed, and where the framework failed
@@ -779,23 +783,17 @@ rmed, and where the framework failed
 
 
 
-[33] (CaseStudies/case_study_1.tex
+[36] (CaseStudies/case_study_1.tex
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
 
-[34]
+[37]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[35]
-
-[36]
-
-[37]
 
 [38]
 
@@ -805,15 +803,15 @@ Package microtype Info: Character `156' is missing
 
 [41]
 
-[42])
+[42]
 
-[43] (CaseStudies/case_study_2.tex
+[43]
 
 [44]
 
-[45]
+[45])
 
-[46]
+[46] (CaseStudies/case_study_2.tex
 
 [47]
 
@@ -824,6 +822,12 @@ Package microtype Info: Character `156' is missing
 [50]
 
 [51]
+
+[52]
+
+[53]
+
+[54]
 Overfull \hbox (1.3707pt too wide) in paragraph at lines 319--319
 | \TU/EBGaramond(0)/b/n/12 “I can’t tell which parts of you are instinct and wh
 ich are practiced. you’re…curated.
@@ -831,23 +835,23 @@ ich are practiced. you’re…curated.
 
 
 
-[52]
-
-[53]
-
-[54])
-
-[55] (CaseStudies/case_study_3.tex
+[55]
 
 [56]
 
-[57]
+[57])
 
-[58]
+[58] (CaseStudies/case_study_3.tex
 
 [59]
 
 [60]
+
+[61]
+
+[62]
+
+[63]
 Overfull \hbox (1.49164pt too wide) in paragraph at lines 122--122
 | \TU/EBGaramond(0)/b/n/12 “you’d be more…in your own head? As opposed to just 
 here…with me…right now…I
@@ -861,27 +865,31 @@ id I see you…whatever you’re…fine
 
 
 
-[61]
+[64]
 
-[62]
+[65]
 
-[63]))
+[66]))
 
-[64] (Atmospheric Impact.aux)
+[67] (Atmospheric Impact.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `"Atmospheric Impact".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 17086 strings out of 402989
- 334575 string characters out of 5451874
- 845838 words of memory out of 5000000
- 45501 multiletter control sequences out of 15000+600000
+ 17089 strings out of 402989
+ 334630 string characters out of 5451874
+ 847734 words of memory out of 5000000
+ 45504 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1376b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1376b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Atmospheric Impact.pdf (65 pages).
+Output written on Atmospheric Impact.pdf (68 pages).
