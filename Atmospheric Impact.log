@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  5 APR 2026 18:57
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  5 APR 2026 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -718,18 +718,18 @@ Express the thought at whatever level of closure it actually reached.
 
 [12]
 
-[13]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
+[13]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex
 
-[14] (GenerativeIncompletion/graze.tex
+[14])
 
-[15]) (GenerativeIncompletion/gradual.tex) (GenerativeIncompletion/fracture.tex
-)
+[15] (GenerativeIncompletion/graze.tex) (GenerativeIncompletion/gradual.tex)
+(GenerativeIncompletion/fracture.tex)
+
+[16]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[16]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 66.
@@ -740,9 +740,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[17] (GenerativeIncompletion/fragment_vs_blur.tex)
+[17]
 
-[18]
+[18] (GenerativeIncompletion/fragment_vs_blur.tex)
 
 [19]
 
@@ -750,42 +750,41 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [21]
 
-[22])
+[22]
 
-[23] (CoAuthorship/main.tex (CoAuthorship/intro.tex)
-(CoAuthorship/completion_bond.tex
+[23]) (CoAuthorship/main.tex (CoAuthorship/intro.tex
 
-[24])
+[24]) (CoAuthorship/completion_bond.tex
 
-[25]
+[25])
 
-[26]) (stages_of_engagement.tex
+[26])
 
-[27])
+[27] (stages_of_engagement.tex
 
-[28] (pressure_states.tex
+[28])
 
-[29])
+[29] (pressure_states.tex)
 
 [30] (calibration_loop.tex
 
-[31]) (failure_modes.tex
+[31]
 
-[32]
+[32]) (failure_modes.tex
 
 [33])
 
 [34]
 
-[35] (CaseStudies/main.tex
+[35]
+
+[36] (CaseStudies/main.tex
 Overfull \hbox (0.36377pt too wide) in paragraph at lines 7--10
 \TU/EBGaramond(0)/m/n/12 nition Fracture occurred, where the Completion Bond fo
 rmed, and where the framework failed
  []
 
 
-
-[36]
 
 [37] (CaseStudies/case_study_1.tex
 Package microtype Info: Character `156' is missing
@@ -886,10 +885,10 @@ Package rerunfilecheck Info: File `"Atmospheric Impact".out' has not changed.
 Here is how much of TeX's memory you used:
  17089 strings out of 402989
  334630 string characters out of 5451874
- 846734 words of memory out of 5000000
+ 846970 words of memory out of 5000000
  45504 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1376b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1376b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on Atmospheric Impact.pdf (69 pages).
