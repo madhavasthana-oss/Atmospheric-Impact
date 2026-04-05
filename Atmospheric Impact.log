@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  5 APR 2026 19:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  5 APR 2026 21:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -740,9 +740,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[17]
+[17] (GenerativeIncompletion/fragment_vs_blur.tex
 
-[18] (GenerativeIncompletion/fragment_vs_blur.tex)
+[18])
 
 [19]
 
@@ -754,31 +754,31 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [23]) (CoAuthorship/main.tex (CoAuthorship/intro.tex
 
-[24]) (CoAuthorship/completion_bond.tex
+[24]) (CoAuthorship/completion_bond.tex)
 
-[25])
+[25]
 
 [26])
 
-[27] (stages_of_engagement.tex
+[27] (stages_of_engagement.tex)
 
-[28])
+[28]
 
 [29] (pressure_states.tex)
 
 [30] (calibration_loop.tex
 
-[31]
+[31]) (failure_modes.tex
 
-[32]) (failure_modes.tex
+[32]
 
 [33])
 
 [34]
 
-[35]
+[35] (CaseStudies/main.tex
 
-[36] (CaseStudies/main.tex
+[36]
 Overfull \hbox (0.36377pt too wide) in paragraph at lines 7--10
 \TU/EBGaramond(0)/m/n/12 nition Fracture occurred, where the Completion Bond fo
 rmed, and where the framework failed
