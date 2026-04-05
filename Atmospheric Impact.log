@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  3 APR 2026 04:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  5 APR 2026 18:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -720,9 +720,10 @@ Express the thought at whatever level of closure it actually reached.
 
 [13]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
 
-[14] (GenerativeIncompletion/graze.tex) (GenerativeIncompletion/gradual.tex
+[14] (GenerativeIncompletion/graze.tex
 
-[15]) (GenerativeIncompletion/fracture.tex)
+[15]) (GenerativeIncompletion/gradual.tex) (GenerativeIncompletion/fracture.tex
+)
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -749,9 +750,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [21]
 
-[22]) (CoAuthorship/main.tex (CoAuthorship/intro.tex
+[22])
 
-[23]) (CoAuthorship/completion_bond.tex
+[23] (CoAuthorship/main.tex (CoAuthorship/intro.tex)
+(CoAuthorship/completion_bond.tex
 
 [24])
 
@@ -783,19 +785,19 @@ rmed, and where the framework failed
 
 
 
-[36] (CaseStudies/case_study_1.tex
+[36]
+
+[37] (CaseStudies/case_study_1.tex
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
 
-[37]
+[38]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[38]
 
 [39]
 
@@ -809,11 +811,11 @@ Package microtype Info: Character `156' is missing
 
 [44]
 
-[45])
+[45]
 
-[46] (CaseStudies/case_study_2.tex
+[46])
 
-[47]
+[47] (CaseStudies/case_study_2.tex
 
 [48]
 
@@ -828,6 +830,8 @@ Package microtype Info: Character `156' is missing
 [53]
 
 [54]
+
+[55]
 Overfull \hbox (1.3707pt too wide) in paragraph at lines 319--319
 | \TU/EBGaramond(0)/b/n/12 “I can’t tell which parts of you are instinct and wh
 ich are practiced. you’re…curated.
@@ -835,15 +839,13 @@ ich are practiced. you’re…curated.
 
 
 
-[55]
-
 [56]
 
-[57])
+[57]
 
-[58] (CaseStudies/case_study_3.tex
+[58])
 
-[59]
+[59] (CaseStudies/case_study_3.tex
 
 [60]
 
@@ -852,6 +854,8 @@ ich are practiced. you’re…curated.
 [62]
 
 [63]
+
+[64]
 Overfull \hbox (1.49164pt too wide) in paragraph at lines 122--122
 | \TU/EBGaramond(0)/b/n/12 “you’d be more…in your own head? As opposed to just 
 here…with me…right now…I
@@ -865,13 +869,13 @@ id I see you…whatever you’re…fine
 
 
 
-[64]
-
 [65]
 
-[66]))
+[66]
 
-[67] (Atmospheric Impact.aux)
+[67]))
+
+[68] (Atmospheric Impact.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -882,10 +886,10 @@ Package rerunfilecheck Info: File `"Atmospheric Impact".out' has not changed.
 Here is how much of TeX's memory you used:
  17089 strings out of 402989
  334630 string characters out of 5451874
- 847734 words of memory out of 5000000
+ 846734 words of memory out of 5000000
  45504 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1376b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1376b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Atmospheric Impact.pdf (68 pages).
+Output written on Atmospheric Impact.pdf (69 pages).

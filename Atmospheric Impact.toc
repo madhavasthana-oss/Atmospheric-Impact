@@ -22,18 +22,18 @@
 \contentsline {subsection}{\numberline {5.2}The Four Positions}{11}{subsection.5.2}%
 \contentsline {subsection}{\numberline {5.3}The Spectrum}{12}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}The Priority Order}{13}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Why Constructed Expression Fails Over Time}{13}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.5}Why Constructed Expression Fails Over Time}{14}{subsection.5.5}%
 \contentsline {section}{\numberline {6}Generative Incompletion}{14}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Definition}{14}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.1}Definition}{15}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}The Three Modes}{15}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Hesitation born from a \hyperref [cognition_fracture]{Cognition Fracture} is Not Weakness}{17}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}It Is Not Mindlessness}{17}{subsection.6.4}%
 \contentsline {subsection}{\numberline {6.5}Openness Is Preserved, Not Created}{18}{subsection.6.5}%
 \contentsline {subsection}{\numberline {6.6}Fragment vs.\ Blur}{18}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}The Stopping Point}{18}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.7}The Stopping Point}{19}{subsection.6.7}%
 \contentsline {subsection}{\numberline {6.8}Selection and Interference}{19}{subsection.6.8}%
 \contentsline {subsection}{\numberline {6.9}Physical Generative Incompletion}{21}{subsection.6.9}%
-\contentsline {subsection}{\numberline {6.10}Visible Fluster and Physiological Vulnerability}{22}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.10}Visible Fluster and Physiological Vulnerability}{23}{subsection.6.10}%
 \contentsline {section}{\numberline {7}Co-Authorship}{24}{section.7}%
 \contentsline {subsection}{\numberline {7.1}The Completion Bond}{24}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Let Her Move Toward You}{25}{subsection.7.2}%
