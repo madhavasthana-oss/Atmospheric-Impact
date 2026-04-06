@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  6 APR 2026 08:11
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  6 APR 2026 23:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -769,33 +769,35 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [26]
 
-[27]) (CoAuthorship/main.tex (CoAuthorship/intro.tex
+[27]
 
-[28]) (CoAuthorship/completion_bond.tex
+[28]) (CoAuthorship/main.tex (CoAuthorship/intro.tex
 
-[29])
+[29]) (CoAuthorship/completion_bond.tex
 
-[30]
+[30])
 
-[31]) (stages_of_engagement.tex
+[31]
 
-[32])
+[32]) (stages_of_engagement.tex
 
-[33] (pressure_states.tex
+[33])
 
-[34])
+[34] (pressure_states.tex)
 
-[35] (calibration_loop.tex
+[35]
 
-[36]) (failure_modes.tex
+[36] (calibration_loop.tex
 
-[37]
+[37]) (failure_modes.tex
 
-[38])
+[38]
 
-[39]
+[39])
 
-[40] (CaseStudies/main.tex
+[40]
+
+[41] (CaseStudies/main.tex
 Overfull \hbox (0.36377pt too wide) in paragraph at lines 7--10
 \TU/EBGaramond(0)/m/n/12 nition Fracture occurred, where the Completion Bond fo
 rmed, and where the framework failed
@@ -803,21 +805,19 @@ rmed, and where the framework failed
 
 
 
-[41]
+[42]
 
-[42] (CaseStudies/case_study_1.tex
+[43] (CaseStudies/case_study_1.tex
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
 
-[43]
+[44]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[44]
 
 [45]
 
@@ -831,11 +831,11 @@ Package microtype Info: Character `156' is missing
 
 [50]
 
-[51])
+[51]
 
-[52] (CaseStudies/case_study_2.tex
+[52])
 
-[53]
+[53] (CaseStudies/case_study_2.tex
 
 [54]
 
@@ -850,6 +850,8 @@ Package microtype Info: Character `156' is missing
 [59]
 
 [60]
+
+[61]
 Overfull \hbox (1.3707pt too wide) in paragraph at lines 319--319
 | \TU/EBGaramond(0)/b/n/12 “I can’t tell which parts of you are instinct and wh
 ich are practiced. you’re…curated.
@@ -857,15 +859,13 @@ ich are practiced. you’re…curated.
 
 
 
-[61]
-
 [62]
 
-[63])
+[63]
 
-[64] (CaseStudies/case_study_3.tex
+[64])
 
-[65]
+[65] (CaseStudies/case_study_3.tex
 
 [66]
 
@@ -874,6 +874,8 @@ ich are practiced. you’re…curated.
 [68]
 
 [69]
+
+[70]
 Overfull \hbox (1.49164pt too wide) in paragraph at lines 122--122
 | \TU/EBGaramond(0)/b/n/12 “you’d be more…in your own head? As opposed to just 
 here…with me…right now…I
@@ -887,13 +889,13 @@ id I see you…whatever you’re…fine
 
 
 
-[70]
-
 [71]
 
-[72]))
+[72]
 
-[73] (Atmospheric Impact.aux)
+[73]))
+
+[74] (Atmospheric Impact.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -906,12 +908,12 @@ Package rerunfilecheck Info: File `"Atmospheric Impact".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 17096 strings out of 402989
- 334811 string characters out of 5451874
- 848079 words of memory out of 5000000
- 45511 multiletter control sequences out of 15000+600000
+ 17098 strings out of 402989
+ 334872 string characters out of 5451874
+ 848368 words of memory out of 5000000
+ 45513 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1376b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1376b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Atmospheric Impact.pdf (74 pages).
+Output written on Atmospheric Impact.pdf (75 pages).
