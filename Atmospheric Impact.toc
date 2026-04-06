@@ -9,60 +9,61 @@
 \contentsline {subsection}{\numberline {3.3}The Constraint}{7}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Where It Forms}{8}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Position in the Framework}{8}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Presence}{8}{section.4}%
-\contentsline {subsection}{\numberline {4.1}What Presence Is}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {3.6}Congruent Expression}{8}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Presence}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}What Presence Is}{9}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Emotional Contagion}{9}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Self-Consciousness}{9}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Precision Without Remainder}{9}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Slowness as Gravity}{9}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}The Compressed Form}{10}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Mindfulness as the Condition, Not the Technique}{10}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Resonance and the First Impulse}{11}{subsection.4.8}%
-\contentsline {section}{\numberline {5}Verbal Presence}{11}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Something Real Formed}{12}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Selection}{12}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Release}{13}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}What Verbal Presence Is Not}{13}{subsection.5.4}%
-\contentsline {section}{\numberline {6}The Expression Model --- Origin and Meaning Closure}{14}{section.6}%
-\contentsline {subsection}{\numberline {6.1}The Two Axes}{14}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}The Four Positions}{15}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}The Spectrum}{15}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}The Priority Order}{16}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Why Constructed Expression Fails Over Time}{17}{subsection.6.5}%
-\contentsline {section}{\numberline {7}Generative Incompletion}{18}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Definition}{18}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}The Three Modes}{19}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Hesitation born from a \hyperref [cognition_fracture]{Cognition Fracture} is Not Weakness}{20}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}It Is Not Mindlessness}{21}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Openness Is Preserved, Not Created}{21}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}Fragment vs.\ Blur}{22}{subsection.7.6}%
-\contentsline {subsection}{\numberline {7.7}The Stopping Point}{22}{subsection.7.7}%
-\contentsline {subsection}{\numberline {7.8}Selection and Interference}{23}{subsection.7.8}%
-\contentsline {subsection}{\numberline {7.9}Physical Generative Incompletion}{25}{subsection.7.9}%
-\contentsline {subsection}{\numberline {7.10}Visible Fluster and Physiological Vulnerability}{26}{subsection.7.10}%
-\contentsline {section}{\numberline {8}Co-Authorship}{27}{section.8}%
-\contentsline {subsection}{\numberline {8.1}The Completion Bond}{28}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Let Her Move Toward You}{29}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}The Collapse Condition}{30}{subsection.8.3}%
-\contentsline {section}{\numberline {9}Reception and Calibration}{31}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Baseline First}{31}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Stages of Engagement}{31}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Disengagement}{32}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Graze, Gradual, and Calibration}{33}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Three Pressure States}{33}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}What Pressure Reveals}{34}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Respect Their Pacing}{34}{subsection.9.7}%
-\contentsline {subsection}{\numberline {9.8}Calibration}{35}{subsection.9.8}%
-\contentsline {subsection}{\numberline {9.9}The Calibration Loop}{35}{subsection.9.9}%
-\contentsline {section}{\numberline {10}Failure Modes}{36}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Vagueness Mistaken for Depth}{36}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Constructed Ambiguity by Softening}{36}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Avoidance Disguised as Openness}{37}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Overuse of Incompletion}{37}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Incompletion Without Grounding}{37}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}The Cold Start Failure}{37}{subsection.10.6}%
-\contentsline {subsection}{\numberline {10.7}Turning Observations Into Rules}{37}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}Misalignment Disguised as Genuine Expression}{38}{subsection.10.8}%
-\contentsline {section}{\numberline {11}Ethical Boundary}{38}{section.11}%
-\contentsline {subsection}{\numberline {11.1}The Source Prerequisite}{39}{subsection.11.1}%
-\contentsline {section}{\numberline {12}Case Studies}{40}{section.12}%
+\contentsline {subsection}{\numberline {4.3}Self-Consciousness}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Precision Without Remainder}{10}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Slowness as Gravity}{10}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}The Compressed Form}{11}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Mindfulness as the Condition, Not the Technique}{11}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Resonance and the First Impulse}{12}{subsection.4.8}%
+\contentsline {section}{\numberline {5}Verbal Presence}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Something Real Formed}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Selection}{13}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Release}{14}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}What Verbal Presence Is Not}{15}{subsection.5.4}%
+\contentsline {section}{\numberline {6}The Expression Model --- Origin and Meaning Closure}{16}{section.6}%
+\contentsline {subsection}{\numberline {6.1}The Two Axes}{16}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}The Four Positions}{16}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}The Spectrum}{17}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}The Priority Order}{17}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Why Constructed Expression Fails Over Time}{18}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Generative Incompletion}{19}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Definition}{19}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}The Three Modes}{20}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Hesitation born from a \hyperref [cognition_fracture]{Cognition Fracture} is Not Weakness}{22}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}It Is Not Mindlessness}{22}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Openness Is Preserved, Not Created}{23}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Fragment vs.\ Blur}{23}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}The Stopping Point}{23}{subsection.7.7}%
+\contentsline {subsection}{\numberline {7.8}Selection and Interference}{24}{subsection.7.8}%
+\contentsline {subsection}{\numberline {7.9}Physical Generative Incompletion}{26}{subsection.7.9}%
+\contentsline {subsection}{\numberline {7.10}Visible Fluster and Physiological Vulnerability}{27}{subsection.7.10}%
+\contentsline {section}{\numberline {8}Co-Authorship}{29}{section.8}%
+\contentsline {subsection}{\numberline {8.1}The Completion Bond}{29}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Let Her Move Toward You}{30}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}The Collapse Condition}{31}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Reception and Calibration}{32}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Baseline First}{32}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Stages of Engagement}{32}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Disengagement}{33}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Graze, Gradual, and Calibration}{34}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Three Pressure States}{34}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}What Pressure Reveals}{35}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Respect Their Pacing}{35}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.8}Calibration}{36}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}The Calibration Loop}{36}{subsection.9.9}%
+\contentsline {section}{\numberline {10}Failure Modes}{37}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Vagueness Mistaken for Depth}{37}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Constructed Ambiguity by Softening}{37}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Avoidance Disguised as Openness}{38}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Overuse of Incompletion}{38}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Incompletion Without Grounding}{38}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}The Cold Start Failure}{38}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Turning Observations Into Rules}{38}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}Misalignment Disguised as Genuine Expression}{39}{subsection.10.8}%
+\contentsline {section}{\numberline {11}Ethical Boundary}{39}{section.11}%
+\contentsline {subsection}{\numberline {11.1}The Source Prerequisite}{40}{subsection.11.1}%
+\contentsline {section}{\numberline {12}Case Studies}{41}{section.12}%
