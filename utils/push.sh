@@ -4,7 +4,7 @@ set -e
 # -------- CONFIG --------
 BRANCH="main"
 
-COMMIT_MSG="Refine resonance model: add exploratory expression, balance incompletion with deliberate completion, fix selection contradiction, and align irreducible core with presence-first philosophy."
+COMMIT_MSG="refine register matching to be more precise and defined"
 
 # -------- STATUS CHECK --------
 echo "→ Checking git status..."

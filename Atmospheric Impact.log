@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  9 APR 2026 19:30
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.3.24)  9 APR 2026 23:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -764,7 +764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 318--319
 [9]
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
  []
 
@@ -775,60 +775,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 384--385
 [12]
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
-
- []
-
-
 
 [14]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 225--226
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
 
-[16])
-
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--419
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+[17])
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
 
  []
 
@@ -839,7 +839,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 420--421
 [19]
 
 LaTeX Warning: Hyper reference `subsec:selection_and_interference' on page 20 u
-ndefined on input line 518.
+ndefined on input line 537.
 
 
 
@@ -849,33 +849,35 @@ ndefined on input line 518.
 
 [22]
 
-LaTeX Warning: Hyper reference `subsec:completion_bond' on page 23 undefined on
- input line 664.
-
-
-
 [23]
 
+LaTeX Warning: Hyper reference `subsec:completion_bond' on page 24 undefined on
+ input line 683.
+
+
+
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 736--737
+Underfull \hbox (badness 10000) in paragraph at lines 755--756
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 738--739
+Underfull \hbox (badness 10000) in paragraph at lines 757--758
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 740--741
+Underfull \hbox (badness 10000) in paragraph at lines 759--760
 
  []
 
-(expression_model.tex
 
-[25]
+
+[25] (expression_model.tex
 
 [26]
+
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
@@ -907,24 +909,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
 
 
-[27]
-
 [28]
 
 [29]
 
-[30]) (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
+[30])
 
-[31] (GenerativeIncompletion/graze.tex
+[31] (GenerativeIncompletion/main.tex (GenerativeIncompletion/intro.tex)
 
-[32]) (GenerativeIncompletion/gradual.tex) (GenerativeIncompletion/fracture.tex
-)
+[32] (GenerativeIncompletion/graze.tex) (GenerativeIncompletion/gradual.tex)
+
+[33] (GenerativeIncompletion/fracture.tex)
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[33]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 66.
@@ -935,9 +934,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[34] (GenerativeIncompletion/fragment_vs_blur.tex
+[34]
 
-[35])
+[35] (GenerativeIncompletion/fragment_vs_blur.tex)
 
 [36]
 
@@ -951,77 +950,80 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [41]
 
-[42]) (CoAuthorship/main.tex (CoAuthorship/intro.tex)
+[42])
 
-[43] (CoAuthorship/completion_bond.tex)
+[43] (CoAuthorship/main.tex (CoAuthorship/intro.tex)
+(CoAuthorship/completion_bond.tex
 
-[44]
+[44])
 
-[45])
+[45]
 
-[46] (stages_of_engagement.tex
+[46]) (stages_of_engagement.tex
 
 [47])
-Underfull \hbox (badness 10000) in paragraph at lines 808--809
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 810--811
-
- []
-
-
 
 [48]
+Underfull \hbox (badness 10000) in paragraph at lines 827--828
 
-[49] (pressure_states.tex)
+ []
 
-[50]
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+
+ []
+
+
+
+[49] (pressure_states.tex
+
+[50])
 
 [51] (calibration_loop.tex
 
-[52]) (failure_modes.tex
+[52]
 
-[53]
+[53]) (failure_modes.tex
 
-[54])
+[54]
 
-[55]
-Underfull \hbox (badness 10000) in paragraph at lines 977--978
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 979--980
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 981--982
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1002
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1003--1004
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1005--1006
-
- []
-
-
+[55])
 
 [56]
+Underfull \hbox (badness 10000) in paragraph at lines 996--997
 
-[57] (CaseStudies/main.tex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--999
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1001
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1023
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1025
+
+ []
+
+
+
+[57]
+
+[58] (CaseStudies/main.tex
 Overfull \hbox (0.36377pt too wide) in paragraph at lines 7--10
 \TU/EBGaramond(0)/m/n/12 nition Fracture occurred, where the Completion Bond fo
 rmed, and where the framework failed
@@ -1029,21 +1031,19 @@ rmed, and where the framework failed
 
 
 
-[58]
+[59]
 
-[59] (CaseStudies/case_study_1.tex
+[60] (CaseStudies/case_study_1.tex
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
 
-[60]
+[61]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
-[61]
 
 [62]
 
@@ -1057,11 +1057,11 @@ Package microtype Info: Character `156' is missing
 
 [67]
 
-[68])
+[68]
 
-[69] (CaseStudies/case_study_2.tex
+[69])
 
-[70]
+[70] (CaseStudies/case_study_2.tex
 
 [71]
 
@@ -1076,6 +1076,8 @@ Package microtype Info: Character `156' is missing
 [76]
 
 [77]
+
+[78]
 Overfull \hbox (1.3707pt too wide) in paragraph at lines 319--319
 | \TU/EBGaramond(0)/b/n/12 “I can’t tell which parts of you are instinct and wh
 ich are practiced. you’re…curated.
@@ -1083,15 +1085,13 @@ ich are practiced. you’re…curated.
 
 
 
-[78]
-
 [79]
 
-[80])
+[80]
 
-[81] (CaseStudies/case_study_3.tex
+[81])
 
-[82]
+[82] (CaseStudies/case_study_3.tex
 
 [83]
 
@@ -1100,6 +1100,8 @@ ich are practiced. you’re…curated.
 [85]
 
 [86]
+
+[87]
 Overfull \hbox (1.49164pt too wide) in paragraph at lines 122--122
 | \TU/EBGaramond(0)/b/n/12 “you’d be more…in your own head? As opposed to just 
 here…with me…right now…I
@@ -1113,13 +1115,13 @@ id I see you…whatever you’re…fine
 
 
 
-[87]
-
 [88]
 
-[89]))
+[89]
 
-[90] (Atmospheric Impact.aux)
+[90]))
+
+[91] (Atmospheric Impact.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1141,6 +1143,6 @@ Here is how much of TeX's memory you used:
  45513 multiletter control sequences out of 15000+600000
  634490 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,6n,96p,1376b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,96p,1376b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Atmospheric Impact.pdf (91 pages).
+Output written on Atmospheric Impact.pdf (92 pages).
