@@ -4,7 +4,7 @@ set -e
 # -------- CONFIG --------
 BRANCH="main"
 
-COMMIT_MSG="refine register matching to be more precise and defined"
+COMMIT_MSG="added the idea of continuous fragment generation when presence is intact"
 
 # -------- STATUS CHECK --------
 echo "→ Checking git status..."
