@@ -4,7 +4,7 @@ set -e
 # -------- CONFIG --------
 BRANCH="main"
 
-COMMIT_MSG="added the idea of continuous fragment generation when presence is intact"
+COMMIT_MSG="added search utility bash script"
 
 # -------- STATUS CHECK --------
 echo "→ Checking git status..."
